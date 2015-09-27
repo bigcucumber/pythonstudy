@@ -9,7 +9,7 @@ from bisect import bisect
 def score(score, list1=[60, 70, 80, 90], list2='ABCDF'):
     i = bisect(list1, score())
     return list2[i]
-print(score(33))
+print(scor(33))
 
 def grade(score, breakpoints=[60, 70, 80, 90], grades='FDCBA'):
     i = bisect(breakpoints, score)
