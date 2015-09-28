@@ -1,4 +1,14 @@
 # pythonstudy
 
-####2015-09-24####
-* some function demos
+### functionDemos ###
+
+python global functions
+
+### collections ###
+
+python collection demo
+
+
+### textProcessServce ###
+
+python text process service
