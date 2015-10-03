@@ -1,4 +1,4 @@
-__author__ = 'Administrator'
+_author__ = 'Administrator'
 
 from os import path
 from bz2 import BZ2Compressor
